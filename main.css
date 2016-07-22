@@ -1,0 +1,98 @@
+html{
+	margin: 0% 24%;
+}
+h1{
+	font-size: 30px;
+}
+.borde{
+	 width:130px;
+	 height: 3px;
+	 margin-top:5px;
+	 margin-bottom: 30px; 
+	 background-color: black;
+}
+.filauno-1{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+.esquina1{
+	position: relative;
+    left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+.filauno-2{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+.esquina2{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+.filauno-3{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+.esquina3{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+.filados-1{
+	float: left;
+	display: inline;
+	clear:both;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+.esquina4{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+.filados-2{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+.esquina5{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+.filados-3{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+.esquina6{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
